@@ -56,3 +56,6 @@ target/
 # IntelliJ IDEA
 .idea/
 spork.iml
+
+# Output files
+*.csv
